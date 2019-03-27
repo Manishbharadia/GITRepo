@@ -1,0 +1,344 @@
+2019-03-26 08:03:34,836 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-03-26 08:09:11,983 [Worker-6: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: FREECRM:FreeCRMID:0.0.1-SNAPSHOT @ D:\eclipse-java-2018-09-win32-x86_64\eclipse\GITRepo\pom.xml.
+2019-03-26 08:09:12,245 [Worker-6: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.apache.commons:commons-io:jar:1.3.2 has been relocated to commons-io:commons-io:jar:1.3.2
+2019-03-26 08:09:12,819 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 08:09:12,819 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-java-2018-09-win32-x86_64\eclipse\GITRepo\src\main\resources
+2019-03-26 08:09:12,821 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 08:09:12,822 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-java-2018-09-win32-x86_64\eclipse\GITRepo\src\test\resources
+2019-03-26 08:09:13,745 [Worker-1: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: FREECRM:FreeCRMID:0.0.1-SNAPSHOT @ D:\eclipse-java-2018-09-win32-x86_64\eclipse\GITRepo\pom.xml.
+2019-03-26 08:09:13,974 [Worker-1: Updating Maven Dependencies] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.apache.commons:commons-io:jar:1.3.2 has been relocated to commons-io:commons-io:jar:1.3.2
+2019-03-26 08:09:14,955 [Worker-11: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.apache.commons:commons-io:jar:1.3.2 has been relocated to commons-io:commons-io:jar:1.3.2
+2019-03-26 08:09:15,229 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 08:09:15,229 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-java-2018-09-win32-x86_64\eclipse\GITRepo\src\main\resources
+2019-03-26 08:09:15,232 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 08:09:15,232 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-java-2018-09-win32-x86_64\eclipse\GITRepo\src\test\resources
+2019-03-26 08:10:24,480 [Worker-4: Rebuilding] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 08:10:24,480 [Worker-4: Rebuilding] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-java-2018-09-win32-x86_64\eclipse\GITRepo\src\main\resources
+2019-03-26 08:10:24,482 [Worker-4: Rebuilding] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 08:10:24,482 [Worker-4: Rebuilding] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-java-2018-09-win32-x86_64\eclipse\GITRepo\src\test\resources
+2019-03-26 08:10:41,662 [Worker-17: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-03-26 08:10:42,122 [Worker-17: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: FREECRM:FreeCRMID:0.0.1-SNAPSHOT @ D:\eclipse-java-2018-09-win32-x86_64\eclipse\GITRepo\pom.xml.
+2019-03-26 08:10:42,307 [Worker-17: Updating Maven Project] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.apache.commons:commons-io:jar:1.3.2 has been relocated to commons-io:commons-io:jar:1.3.2
+2019-03-26 08:10:42,589 [Worker-17: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /FreeCRMID/src/main/java
+2019-03-26 08:10:42,590 [Worker-17: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /FreeCRMID/src/test/java
+2019-03-26 08:10:42,779 [Worker-17: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2019-03-26 08:10:43,264 [Worker-1: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.apache.commons:commons-io:jar:1.3.2 has been relocated to commons-io:commons-io:jar:1.3.2
+2019-03-26 08:10:43,296 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 08:10:43,296 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-java-2018-09-win32-x86_64\eclipse\GITRepo\src\main\resources
+2019-03-26 08:10:43,298 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 08:10:43,298 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-java-2018-09-win32-x86_64\eclipse\GITRepo\src\test\resources
+2019-03-26 08:11:56,754 [Worker-11: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-03-26 08:11:57,175 [Worker-11: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: FREECRM:FreeCRMID:0.0.1-SNAPSHOT @ D:\eclipse-java-2018-09-win32-x86_64\eclipse\GITRepo\pom.xml.
+2019-03-26 08:11:57,333 [Worker-11: Updating Maven Project] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.apache.commons:commons-io:jar:1.3.2 has been relocated to commons-io:commons-io:jar:1.3.2
+2019-03-26 08:11:57,593 [Worker-11: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /FreeCRMID/src/main/java
+2019-03-26 08:11:57,594 [Worker-11: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /FreeCRMID/src/test/java
+2019-03-26 08:11:57,804 [Worker-11: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2019-03-26 08:11:58,279 [Worker-11: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.apache.commons:commons-io:jar:1.3.2 has been relocated to commons-io:commons-io:jar:1.3.2
+2019-03-26 08:11:58,307 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 08:11:58,307 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-java-2018-09-win32-x86_64\eclipse\GITRepo\src\main\resources
+2019-03-26 08:11:58,309 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 08:11:58,309 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-java-2018-09-win32-x86_64\eclipse\GITRepo\src\test\resources
+2019-03-26 08:12:19,605 [Worker-6: Rebuilding] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 08:12:19,605 [Worker-6: Rebuilding] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-java-2018-09-win32-x86_64\eclipse\GITRepo\src\main\resources
+2019-03-26 08:12:19,607 [Worker-6: Rebuilding] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 08:12:19,607 [Worker-6: Rebuilding] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-java-2018-09-win32-x86_64\eclipse\GITRepo\src\test\resources
+2019-03-26 08:12:33,938 [Worker-18: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-03-26 08:12:34,327 [Worker-18: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: FREECRM:FreeCRMID:0.0.1-SNAPSHOT @ D:\eclipse-java-2018-09-win32-x86_64\eclipse\GITRepo\pom.xml.
+2019-03-26 08:12:34,456 [Worker-18: Updating Maven Project] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.apache.commons:commons-io:jar:1.3.2 has been relocated to commons-io:commons-io:jar:1.3.2
+2019-03-26 08:12:34,655 [Worker-18: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /FreeCRMID/src/main/java
+2019-03-26 08:12:34,655 [Worker-18: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /FreeCRMID/src/test/java
+2019-03-26 08:12:34,824 [Worker-18: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2019-03-26 08:12:35,390 [Worker-17: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.apache.commons:commons-io:jar:1.3.2 has been relocated to commons-io:commons-io:jar:1.3.2
+2019-03-26 08:12:35,418 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 08:12:35,418 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-java-2018-09-win32-x86_64\eclipse\GITRepo\src\main\resources
+2019-03-26 08:12:35,420 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 08:12:35,420 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-java-2018-09-win32-x86_64\eclipse\GITRepo\src\test\resources
+2019-03-26 08:15:10,446 [Worker-11: Launching Executing test in D__eclipse-java-2018-09-win32-x86_64_eclipse_GITRepo] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\eclipse-java-2018-09-win32-x86_64\eclipse\GITRepo
+2019-03-26 08:15:10,449 [Worker-11: Launching Executing test in D__eclipse-java-2018-09-win32-x86_64_eclipse_GITRepo] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B test
+2019-03-26 08:15:17,581 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 08:15:17,581 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-java-2018-09-win32-x86_64\eclipse\GITRepo\src\main\resources
+2019-03-26 08:15:17,585 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 08:15:17,585 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-java-2018-09-win32-x86_64\eclipse\GITRepo\src\test\resources
+2019-03-26 08:17:32,542 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 08:17:32,542 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-java-2018-09-win32-x86_64\eclipse\GITRepo\src\main\resources
+2019-03-26 08:17:32,544 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 08:17:32,544 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-java-2018-09-win32-x86_64\eclipse\GITRepo\src\test\resources
+2019-03-26 08:17:35,058 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 08:17:35,058 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-java-2018-09-win32-x86_64\eclipse\GITRepo\src\main\resources
+2019-03-26 08:17:35,059 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 08:17:35,059 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-java-2018-09-win32-x86_64\eclipse\GITRepo\src\test\resources
+2019-03-26 08:18:41,864 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 08:18:41,864 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-java-2018-09-win32-x86_64\eclipse\GITRepo\src\main\resources
+2019-03-26 08:18:41,865 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 08:18:41,865 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-java-2018-09-win32-x86_64\eclipse\GITRepo\src\test\resources
+2019-03-26 08:19:57,622 [Worker-17: Rebuilding] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 08:19:57,622 [Worker-17: Rebuilding] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-java-2018-09-win32-x86_64\eclipse\GITRepo\src\main\resources
+2019-03-26 08:19:57,623 [Worker-17: Rebuilding] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 08:19:57,623 [Worker-17: Rebuilding] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-java-2018-09-win32-x86_64\eclipse\GITRepo\src\test\resources
+2019-03-26 08:24:14,637 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 08:24:14,638 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-java-2018-09-win32-x86_64\eclipse\GITRepo\src\main\resources
+2019-03-26 08:24:14,640 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 08:24:14,640 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-java-2018-09-win32-x86_64\eclipse\GITRepo\src\test\resources
+2019-03-26 08:24:33,898 [Worker-17: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-03-26 08:24:34,221 [Worker-17: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: FREECRM:FreeCRMID:0.0.1-SNAPSHOT @ D:\eclipse-java-2018-09-win32-x86_64\eclipse\GITRepo\pom.xml.
+2019-03-26 08:24:34,322 [Worker-17: Updating Maven Project] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.apache.commons:commons-io:jar:1.3.2 has been relocated to commons-io:commons-io:jar:1.3.2
+2019-03-26 08:24:34,477 [Worker-17: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /FreeCRMID/src/main/java
+2019-03-26 08:24:34,478 [Worker-17: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /FreeCRMID/src/test/java
+2019-03-26 08:24:34,694 [Worker-17: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2019-03-26 08:24:35,013 [Worker-1: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.apache.commons:commons-io:jar:1.3.2 has been relocated to commons-io:commons-io:jar:1.3.2
+2019-03-26 08:24:35,036 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 08:24:35,037 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-java-2018-09-win32-x86_64\eclipse\GITRepo\src\main\resources
+2019-03-26 08:24:35,038 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 08:24:35,038 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-java-2018-09-win32-x86_64\eclipse\GITRepo\src\test\resources
+2019-03-26 08:25:14,266 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 08:25:14,266 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-java-2018-09-win32-x86_64\eclipse\GITRepo\src\main\resources
+2019-03-26 08:25:14,268 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 08:25:14,268 [Worker-19: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-java-2018-09-win32-x86_64\eclipse\GITRepo\src\test\resources
+2019-03-26 08:25:55,486 [Worker-21: Rebuilding] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 08:25:55,486 [Worker-21: Rebuilding] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-java-2018-09-win32-x86_64\eclipse\GITRepo\src\main\resources
+2019-03-26 08:25:55,487 [Worker-21: Rebuilding] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 08:25:55,487 [Worker-21: Rebuilding] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-java-2018-09-win32-x86_64\eclipse\GITRepo\src\test\resources
+2019-03-26 08:26:06,418 [Worker-21: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-03-26 08:26:06,766 [Worker-21: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: FREECRM:FreeCRMID:0.0.1-SNAPSHOT @ D:\eclipse-java-2018-09-win32-x86_64\eclipse\GITRepo\pom.xml.
+2019-03-26 08:26:06,901 [Worker-21: Updating Maven Project] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.apache.commons:commons-io:jar:1.3.2 has been relocated to commons-io:commons-io:jar:1.3.2
+2019-03-26 08:26:07,087 [Worker-21: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /FreeCRMID/src/main/java
+2019-03-26 08:26:07,088 [Worker-21: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /FreeCRMID/src/test/java
+2019-03-26 08:26:07,299 [Worker-21: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2019-03-26 08:26:07,796 [Worker-1: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The artifact org.apache.commons:commons-io:jar:1.3.2 has been relocated to commons-io:commons-io:jar:1.3.2
+2019-03-26 08:26:07,822 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 08:26:07,822 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-java-2018-09-win32-x86_64\eclipse\GITRepo\src\main\resources
+2019-03-26 08:26:07,824 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 08:26:07,824 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-java-2018-09-win32-x86_64\eclipse\GITRepo\src\test\resources
+2019-03-26 08:28:49,940 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 08:28:49,940 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-java-2018-09-win32-x86_64\eclipse\GITRepo\src\main\resources
+2019-03-26 08:28:49,941 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 08:28:49,941 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-java-2018-09-win32-x86_64\eclipse\GITRepo\src\test\resources
+2019-03-26 08:29:08,135 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 08:29:08,135 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-java-2018-09-win32-x86_64\eclipse\GITRepo\src\main\resources
+2019-03-26 08:29:08,137 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 08:29:08,137 [Worker-17: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-java-2018-09-win32-x86_64\eclipse\GITRepo\src\test\resources
+2019-03-26 08:29:48,323 [Worker-20: Rebuilding] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 08:29:48,324 [Worker-20: Rebuilding] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-java-2018-09-win32-x86_64\eclipse\GITRepo\src\main\resources
+2019-03-26 08:29:48,325 [Worker-20: Rebuilding] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 08:29:48,325 [Worker-20: Rebuilding] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-java-2018-09-win32-x86_64\eclipse\GITRepo\src\test\resources
+2019-03-26 08:29:56,813 [Worker-23: Launching Executing test in D__eclipse-java-2018-09-win32-x86_64_eclipse_GITRepo] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\eclipse-java-2018-09-win32-x86_64\eclipse\GITRepo
+2019-03-26 08:29:56,813 [Worker-23: Launching Executing test in D__eclipse-java-2018-09-win32-x86_64_eclipse_GITRepo] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B test
+2019-03-26 08:29:59,295 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 08:29:59,296 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-java-2018-09-win32-x86_64\eclipse\GITRepo\src\main\resources
+2019-03-26 08:29:59,299 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 08:29:59,300 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-java-2018-09-win32-x86_64\eclipse\GITRepo\src\test\resources
+2019-03-26 08:32:43,040 [Worker-21: Launching Executing test in D__eclipse-java-2018-09-win32-x86_64_eclipse_GITRepo] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\eclipse-java-2018-09-win32-x86_64\eclipse\GITRepo
+2019-03-26 08:32:43,040 [Worker-21: Launching Executing test in D__eclipse-java-2018-09-win32-x86_64_eclipse_GITRepo] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B test
+2019-03-26 08:38:56,811 [Worker-21: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: FREECRM:FreeCRMID:0.0.1-SNAPSHOT @ D:\eclipse-java-2018-09-win32-x86_64\eclipse\GITRepo\pom.xml.
+2019-03-26 08:38:57,224 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 08:38:57,224 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-java-2018-09-win32-x86_64\eclipse\GITRepo\src\main\resources
+2019-03-26 08:38:57,226 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 08:38:57,226 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-java-2018-09-win32-x86_64\eclipse\GITRepo\src\test\resources
+2019-03-26 08:40:28,947 [Worker-23: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-03-26 08:40:29,275 [Worker-23: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: FREECRM:FreeCRMID:0.0.1-SNAPSHOT @ D:\eclipse-java-2018-09-win32-x86_64\eclipse\GITRepo\pom.xml.
+2019-03-26 08:40:29,572 [Worker-23: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /FreeCRMID/src/main/java
+2019-03-26 08:40:29,573 [Worker-23: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /FreeCRMID/src/test/java
+2019-03-26 08:40:29,765 [Worker-23: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2019-03-26 08:40:30,189 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 08:40:30,189 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-java-2018-09-win32-x86_64\eclipse\GITRepo\src\main\resources
+2019-03-26 08:40:30,190 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 08:40:30,191 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-java-2018-09-win32-x86_64\eclipse\GITRepo\src\test\resources
+2019-03-26 08:41:51,124 [Worker-24: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-03-26 08:41:51,429 [Worker-24: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: FREECRM:FreeCRMID:0.0.1-SNAPSHOT @ D:\eclipse-java-2018-09-win32-x86_64\eclipse\GITRepo\pom.xml.
+2019-03-26 08:41:51,664 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /FreeCRMID/src/main/java
+2019-03-26 08:41:51,664 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /FreeCRMID/src/test/java
+2019-03-26 08:41:51,787 [Worker-24: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2019-03-26 08:41:52,142 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 08:41:52,143 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-java-2018-09-win32-x86_64\eclipse\GITRepo\src\main\resources
+2019-03-26 08:41:52,145 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 08:41:52,145 [Worker-26: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-java-2018-09-win32-x86_64\eclipse\GITRepo\src\test\resources
+2019-03-26 08:42:56,674 [Worker-24: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: FREECRM:FreeCRMID:0.0.1-SNAPSHOT @ D:\eclipse-java-2018-09-win32-x86_64\eclipse\GITRepo\pom.xml.
+2019-03-26 08:43:02,191 [Worker-24: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-io/commons-io/2.5/commons-io-2.5.pom
+2019-03-26 08:43:02,720 [Worker-24: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-io/commons-io/2.5/commons-io-2.5.pom
+2019-03-26 08:43:03,018 [Worker-24: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/39/commons-parent-39.pom
+2019-03-26 08:43:12,060 [Worker-24: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/commons/commons-parent/39/commons-parent-39.pom
+2019-03-26 08:43:12,613 [Worker-24: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apache/apache/16/apache-16.pom
+2019-03-26 08:43:15,300 [Worker-24: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apache/apache/16/apache-16.pom
+2019-03-26 08:43:15,931 [Worker-24: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-io/commons-io/2.5/commons-io-2.5.jar
+2019-03-26 08:43:32,403 [Worker-24: Building workspace] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-io/commons-io/2.5/commons-io-2.5.jar
+2019-03-26 08:43:32,721 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 08:43:32,721 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-java-2018-09-win32-x86_64\eclipse\GITRepo\src\main\resources
+2019-03-26 08:43:32,722 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 08:43:32,722 [Worker-24: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-java-2018-09-win32-x86_64\eclipse\GITRepo\src\test\resources
+2019-03-26 08:43:33,885 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 08:43:33,886 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-java-2018-09-win32-x86_64\eclipse\GITRepo\src\main\resources
+2019-03-26 08:43:33,887 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 08:43:33,887 [Worker-23: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-java-2018-09-win32-x86_64\eclipse\GITRepo\src\test\resources
+2019-03-26 08:43:34,952 [Worker-26: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/commons-io/commons-io/2.5/commons-io-2.5-javadoc.jar
+2019-03-26 08:44:27,068 [Worker-26: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/commons-io/commons-io/2.5/commons-io-2.5-javadoc.jar
+2019-03-26 08:44:27,110 [Worker-26: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded javadoc for commons-io:commons-io:2.5
+2019-03-26 08:44:27,454 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 08:44:27,454 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-java-2018-09-win32-x86_64\eclipse\GITRepo\src\main\resources
+2019-03-26 08:44:27,454 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 08:44:27,455 [Worker-21: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-java-2018-09-win32-x86_64\eclipse\GITRepo\src\test\resources
+2019-03-26 08:57:08,967 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-03-26 08:57:41,106 [Worker-13: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-03-26 08:57:41,797 [Worker-13: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: FREECRM:FreeCRMID:0.0.1-SNAPSHOT @ D:\eclipse-java-2018-09-win32-x86_64\eclipse\GITRepo\pom.xml.
+2019-03-26 08:57:42,241 [Worker-13: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /FreeCRMID/src/main/java
+2019-03-26 08:57:42,242 [Worker-13: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /FreeCRMID/src/test/java
+2019-03-26 08:57:42,533 [Worker-13: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2019-03-26 08:57:43,234 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 08:57:43,234 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-java-2018-09-win32-x86_64\eclipse\GITRepo\src\main\resources
+2019-03-26 08:57:43,236 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 08:57:43,236 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-java-2018-09-win32-x86_64\eclipse\GITRepo\src\test\resources
+2019-03-26 09:05:21,928 [Worker-11: Launching Executing test in D__eclipse-java-2018-09-win32-x86_64_eclipse_GITRepo] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\eclipse-java-2018-09-win32-x86_64\eclipse\GITRepo
+2019-03-26 09:05:21,929 [Worker-11: Launching Executing test in D__eclipse-java-2018-09-win32-x86_64_eclipse_GITRepo] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B test
+2019-03-26 09:05:31,650 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 09:05:31,650 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-java-2018-09-win32-x86_64\eclipse\GITRepo\src\main\resources
+2019-03-26 09:05:31,652 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 09:05:31,652 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-java-2018-09-win32-x86_64\eclipse\GITRepo\src\test\resources
+2019-03-26 09:06:33,407 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 09:06:33,407 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-java-2018-09-win32-x86_64\eclipse\GITRepo\src\main\resources
+2019-03-26 09:06:33,408 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 09:06:33,408 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-java-2018-09-win32-x86_64\eclipse\GITRepo\src\test\resources
+2019-03-26 09:07:01,015 [Worker-1: Rebuilding] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 09:07:01,015 [Worker-1: Rebuilding] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-java-2018-09-win32-x86_64\eclipse\GITRepo\src\main\resources
+2019-03-26 09:07:01,016 [Worker-1: Rebuilding] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 09:07:01,017 [Worker-1: Rebuilding] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-java-2018-09-win32-x86_64\eclipse\GITRepo\src\test\resources
+2019-03-26 09:07:21,815 [Worker-1: Launching Executing test in D__eclipse-java-2018-09-win32-x86_64_eclipse_GITRepo] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\eclipse-java-2018-09-win32-x86_64\eclipse\GITRepo
+2019-03-26 09:07:21,815 [Worker-1: Launching Executing test in D__eclipse-java-2018-09-win32-x86_64_eclipse_GITRepo] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B test
+2019-03-26 09:08:01,903 [Worker-1: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-03-26 09:08:02,268 [Worker-1: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: FREECRM:FreeCRMID:0.0.1-SNAPSHOT @ D:\eclipse-java-2018-09-win32-x86_64\eclipse\GITRepo\pom.xml.
+2019-03-26 09:08:02,633 [Worker-1: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /FreeCRMID/src/main/java
+2019-03-26 09:08:02,633 [Worker-1: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /FreeCRMID/src/test/java
+2019-03-26 09:08:02,821 [Worker-1: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2019-03-26 09:08:03,254 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 09:08:03,254 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-java-2018-09-win32-x86_64\eclipse\GITRepo\src\main\resources
+2019-03-26 09:08:03,256 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 09:08:03,256 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-java-2018-09-win32-x86_64\eclipse\GITRepo\src\test\resources
+2019-03-26 09:09:03,367 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 09:09:03,368 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-java-2018-09-win32-x86_64\eclipse\GITRepo\src\main\resources
+2019-03-26 09:09:03,369 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 09:09:03,369 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-java-2018-09-win32-x86_64\eclipse\GITRepo\src\test\resources
+2019-03-26 09:09:16,327 [Worker-1: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-03-26 09:09:16,646 [Worker-1: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: FREECRM:FreeCRMID:0.0.1-SNAPSHOT @ D:\eclipse-java-2018-09-win32-x86_64\eclipse\GITRepo\pom.xml.
+2019-03-26 09:09:16,935 [Worker-1: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /FreeCRMID/src/main/java
+2019-03-26 09:09:16,935 [Worker-1: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /FreeCRMID/src/test/java
+2019-03-26 09:09:17,091 [Worker-1: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2019-03-26 09:09:17,610 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 09:09:17,610 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-java-2018-09-win32-x86_64\eclipse\GITRepo\src\main\resources
+2019-03-26 09:09:17,612 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 09:09:17,612 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-java-2018-09-win32-x86_64\eclipse\GITRepo\src\test\resources
+2019-03-26 22:34:56,618 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-03-26 22:35:10,249 [Worker-10: Launching Executing test in D__eclipse-java-2018-09-win32-x86_64_eclipse_GITRepo] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\eclipse-java-2018-09-win32-x86_64\eclipse\GITRepo
+2019-03-26 22:35:10,251 [Worker-10: Launching Executing test in D__eclipse-java-2018-09-win32-x86_64_eclipse_GITRepo] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B test
+2019-03-26 22:35:24,318 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 22:35:24,319 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-java-2018-09-win32-x86_64\eclipse\GITRepo\src\main\resources
+2019-03-26 22:35:24,323 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 22:35:24,323 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-java-2018-09-win32-x86_64\eclipse\GITRepo\src\test\resources
+2019-03-26 22:47:24,980 [Worker-16: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: FREECRM:FreeCRMID:0.0.1-SNAPSHOT @ D:\eclipse-java-2018-09-win32-x86_64\eclipse\GITRepo\pom.xml.
+2019-03-26 22:47:25,564 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 22:47:25,565 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-java-2018-09-win32-x86_64\eclipse\GITRepo\src\main\resources
+2019-03-26 22:47:25,566 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 22:47:25,566 [Worker-16: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-java-2018-09-win32-x86_64\eclipse\GITRepo\src\test\resources
+2019-03-26 22:48:36,884 [Worker-9: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-03-26 22:48:37,301 [Worker-9: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: FREECRM:FreeCRMID:0.0.1-SNAPSHOT @ D:\eclipse-java-2018-09-win32-x86_64\eclipse\GITRepo\pom.xml.
+2019-03-26 22:48:37,663 [Worker-9: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /FreeCRMID/src/main/java
+2019-03-26 22:48:37,664 [Worker-9: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /FreeCRMID/src/test/java
+2019-03-26 22:48:37,938 [Worker-9: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2019-03-26 22:48:38,540 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 22:48:38,540 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-java-2018-09-win32-x86_64\eclipse\GITRepo\src\main\resources
+2019-03-26 22:48:38,542 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 22:48:38,542 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-java-2018-09-win32-x86_64\eclipse\GITRepo\src\test\resources
+2019-03-26 22:49:10,748 [Worker-9: Launching Executing test in D__eclipse-java-2018-09-win32-x86_64_eclipse_GITRepo] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\eclipse-java-2018-09-win32-x86_64\eclipse\GITRepo
+2019-03-26 22:49:10,749 [Worker-9: Launching Executing test in D__eclipse-java-2018-09-win32-x86_64_eclipse_GITRepo] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B test
+2019-03-26 22:54:56,081 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 22:54:56,081 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-java-2018-09-win32-x86_64\eclipse\GITRepo\src\main\resources
+2019-03-26 22:54:56,082 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 22:54:56,082 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-java-2018-09-win32-x86_64\eclipse\GITRepo\src\test\resources
+2019-03-26 23:41:18,533 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-03-26 23:43:34,429 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 23:43:34,429 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-java-2018-09-win32-x86_64\eclipse\GITRepo\src\main\resources
+2019-03-26 23:43:34,431 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 23:43:34,431 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-java-2018-09-win32-x86_64\eclipse\GITRepo\src\test\resources
+2019-03-26 23:44:20,558 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 23:44:20,559 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-java-2018-09-win32-x86_64\eclipse\GITRepo\src\main\resources
+2019-03-26 23:44:20,560 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 23:44:20,560 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-java-2018-09-win32-x86_64\eclipse\GITRepo\src\test\resources
+2019-03-26 23:45:02,626 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 23:45:02,628 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-java-2018-09-win32-x86_64\eclipse\GITRepo\src\main\resources
+2019-03-26 23:45:02,628 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 23:45:02,628 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-java-2018-09-win32-x86_64\eclipse\GITRepo\src\test\resources
+2019-03-26 23:53:49,821 [Worker-14: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: FREECRM:FreeCRMID:0.0.1-SNAPSHOT @ D:\eclipse-java-2018-09-win32-x86_64\eclipse\GITRepo\pom.xml.
+2019-03-26 23:53:50,279 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 23:53:50,279 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-java-2018-09-win32-x86_64\eclipse\GITRepo\src\main\resources
+2019-03-26 23:53:50,281 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 23:53:50,281 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-java-2018-09-win32-x86_64\eclipse\GITRepo\src\test\resources
+2019-03-26 23:54:12,594 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-03-26 23:54:42,156 [Worker-4: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-03-26 23:54:42,867 [Worker-4: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: FREECRM:FreeCRMID:0.0.1-SNAPSHOT @ D:\eclipse-java-2018-09-win32-x86_64\eclipse\GITRepo\pom.xml.
+2019-03-26 23:54:43,318 [Worker-4: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /FreeCRMID/src/main/java
+2019-03-26 23:54:43,319 [Worker-4: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /FreeCRMID/src/test/java
+2019-03-26 23:54:43,647 [Worker-4: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2019-03-26 23:54:44,440 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 23:54:44,440 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-java-2018-09-win32-x86_64\eclipse\GITRepo\src\main\resources
+2019-03-26 23:54:44,442 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 23:54:44,442 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-java-2018-09-win32-x86_64\eclipse\GITRepo\src\test\resources
+2019-03-26 23:56:54,927 [Worker-9: Launching Executing test in D__eclipse-java-2018-09-win32-x86_64_eclipse_GITRepo] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\eclipse-java-2018-09-win32-x86_64\eclipse\GITRepo
+2019-03-26 23:56:54,928 [Worker-9: Launching Executing test in D__eclipse-java-2018-09-win32-x86_64_eclipse_GITRepo] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B test
+2019-03-26 23:58:02,419 [Worker-10: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-03-26 23:58:02,898 [Worker-10: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: FREECRM:FreeCRMID:0.0.1-SNAPSHOT @ D:\eclipse-java-2018-09-win32-x86_64\eclipse\GITRepo\pom.xml.
+2019-03-26 23:58:03,277 [Worker-10: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /FreeCRMID/src/main/java
+2019-03-26 23:58:03,278 [Worker-10: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /FreeCRMID/src/test/java
+2019-03-26 23:58:03,600 [Worker-10: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2019-03-26 23:58:04,120 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 23:58:04,120 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-java-2018-09-win32-x86_64\eclipse\GITRepo\src\main\resources
+2019-03-26 23:58:04,123 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-26 23:58:04,124 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-java-2018-09-win32-x86_64\eclipse\GITRepo\src\test\resources
+2019-03-26 23:58:31,570 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-03-27 19:12:33,180 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-03-27 19:12:33,368 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Updating Gradle version information cache failed. Using outdated cache.
+2019-03-27 19:16:45,377 [Worker-7: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-03-27 19:16:46,276 [Worker-7: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: FREECRM:FreeCRMID:0.0.1-SNAPSHOT @ D:\eclipse-java-2018-09-win32-x86_64\eclipse\GITRepo\pom.xml.
+2019-03-27 19:16:46,996 [Worker-7: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /FreeCRMID/src/main/java
+2019-03-27 19:16:46,998 [Worker-7: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /FreeCRMID/src/test/java
+2019-03-27 19:16:47,377 [Worker-7: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2019-03-27 19:16:48,254 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 19:16:48,254 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-java-2018-09-win32-x86_64\eclipse\GITRepo\src\main\resources
+2019-03-27 19:16:48,257 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 19:16:48,257 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-java-2018-09-win32-x86_64\eclipse\GITRepo\src\test\resources
+2019-03-27 19:18:45,490 [Worker-7: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-03-27 19:18:45,981 [Worker-7: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: FREECRM:FreeCRMID:0.0.1-SNAPSHOT @ D:\eclipse-java-2018-09-win32-x86_64\eclipse\GITRepo\pom.xml.
+2019-03-27 19:18:46,394 [Worker-7: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /FreeCRMID/src/main/java
+2019-03-27 19:18:46,395 [Worker-7: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /FreeCRMID/src/test/java
+2019-03-27 19:18:46,608 [Worker-7: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2019-03-27 19:18:47,128 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 19:18:47,128 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-java-2018-09-win32-x86_64\eclipse\GITRepo\src\main\resources
+2019-03-27 19:18:47,129 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 19:18:47,129 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-java-2018-09-win32-x86_64\eclipse\GITRepo\src\test\resources
+2019-03-27 19:21:20,215 [Worker-5: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-03-27 19:21:20,782 [Worker-5: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: FREECRM:FreeCRMID:0.0.1-SNAPSHOT @ D:\eclipse-java-2018-09-win32-x86_64\eclipse\GITRepo\pom.xml.
+2019-03-27 19:21:21,349 [Worker-5: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /FreeCRMID/src/main/java
+2019-03-27 19:21:21,349 [Worker-5: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /FreeCRMID/src/test/java
+2019-03-27 19:21:21,630 [Worker-5: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2019-03-27 19:21:22,237 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 19:21:22,238 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-java-2018-09-win32-x86_64\eclipse\GITRepo\src\main\resources
+2019-03-27 19:21:22,239 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 19:21:22,240 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-java-2018-09-win32-x86_64\eclipse\GITRepo\src\test\resources
+2019-03-27 19:21:52,297 [Worker-10: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2019-03-27 19:21:52,689 [Worker-10: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: FREECRM:FreeCRMID:0.0.1-SNAPSHOT @ D:\eclipse-java-2018-09-win32-x86_64\eclipse\GITRepo\pom.xml.
+2019-03-27 19:21:53,088 [Worker-10: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /FreeCRMID/src/main/java
+2019-03-27 19:21:53,089 [Worker-10: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /FreeCRMID/src/test/java
+2019-03-27 19:21:53,282 [Worker-10: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2019-03-27 19:21:53,840 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 19:21:53,840 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-java-2018-09-win32-x86_64\eclipse\GITRepo\src\main\resources
+2019-03-27 19:21:53,842 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 19:21:53,843 [Worker-5: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-java-2018-09-win32-x86_64\eclipse\GITRepo\src\test\resources
+2019-03-27 19:24:29,193 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-03-27 19:34:15,427 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-03-27 19:34:47,403 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 19:34:47,404 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-java-2018-09-win32-x86_64\eclipse\GITRepo\src\main\resources
+2019-03-27 19:34:47,408 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2019-03-27 19:34:47,408 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\eclipse-java-2018-09-win32-x86_64\eclipse\GITRepo\src\test\resources
+2019-03-27 19:36:38,217 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-03-27 19:37:36,916 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-03-27 19:38:04,115 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-03-27 19:39:01,151 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-03-27 19:43:43,124 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-03-27 19:45:34,113 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-03-27 21:14:44,277 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.

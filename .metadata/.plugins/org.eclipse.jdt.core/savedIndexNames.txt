@@ -1,0 +1,1 @@
+INDEX VERSION 1.131+D:\git\GITRepo\.metadata\.plugins\org.eclipse.jdt.core
